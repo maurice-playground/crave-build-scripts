@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # initialize the ROM repo
 repo init -u https://github.com/AxionAOSP/android.git -b lineage-23.2 --git-lfs --depth=1
 
