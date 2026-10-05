@@ -10,5 +10,5 @@ bash /opt/crave/resync.sh
 
 # prep
 source build/envsetup.sh
-axion spes gms
+axion spes pico
 ax -br # bacon
